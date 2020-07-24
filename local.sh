@@ -6,4 +6,4 @@ docker run --rm -it \
 -w="/code" \
 -p 4000:4000 \
 -v `pwd`:/code \
-nodebase:1.0.0 /bin/bash
+bhokdoc/nodebase:1.0.0 /bin/bash
